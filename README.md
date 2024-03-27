@@ -14,8 +14,4 @@
 Điền vào form dưới đây:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbmQmNpUNwqSjBQCL9ercvwk0JCG6O0bSela0skkofqgM1VQ/viewform?embedded=true" width="640" height="959" frameborder="0" marginheight="0" marginwidth="0">Đang tải…</iframe>
-<form action="https://formspree.io/f/{form_id}" method="post">
-	  <label for="email">Your Email</label>
-	  <input name="Email" id="email" type="email">
-	  <button type="submit">Submit</button>
-	</form>
+![topdev](https://topdev.vn)
