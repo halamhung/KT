@@ -8,3 +8,9 @@
 * Ngày sinh: 18/01/2002
 * Ngành CNTT
 * Công nghệ phần mềm
+
+* ## Google Form
+
+Điền vào form dưới đây:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9vT0V_YcYQ_jYQ/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
